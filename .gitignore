@@ -1,0 +1,6 @@
+## Environment normalisation:
+/.bundle
+/vendor/bundle
+
+# Ignore pow environment settings
+.powenv
